@@ -5,7 +5,7 @@
 Use Supermarket dataset that is previously used in generating cusotmer single view. This dataset contains 578K records of sales transactions
 
 ### 2.) Create Customer Single View
-See full details of creating the Customer Single View at https://github.com/JamjureeK/MADT8101-Customer-Analytics/tree/ce0a0bc994e51d92f49ac2549f41992d750a26f9/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design
+See full details of creating the Customer Single View at [Customer Data Platform & Customer Single View Design](https://github.com/JamjureeK/MADT8101-Customer-Analytics/tree/ce0a0bc994e51d92f49ac2549f41992d750a26f9/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design)
 
 ### 3.) Perform Principal Component Analysis (PCA)
 Select no. of components = 3
