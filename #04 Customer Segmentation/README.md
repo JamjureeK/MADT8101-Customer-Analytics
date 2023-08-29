@@ -22,4 +22,4 @@ Select no. of components = 3
 ![Kmeans](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/f9e50d98-6b50-4fda-9119-7d39626ae906)
 ![Kmeans_clusters_plot](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/ff8b689e-75d9-40bb-bc29-08f0043eca8d)
 
-### 5.) Intepretation
+### 5.) Interpretation
