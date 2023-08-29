@@ -33,14 +33,14 @@ The following are some interesting observations from the boxplots:
 
 4.) Identify the significant features by their importance scores and retain only those with scores exceeding the threshold of 0.075.
 
-In the first round, The Random Forest Classifier emerged as the top-performing model. Employing undersampling for resampling, it achieved metrics on the test set: an AUC of 0.89, a precision of 0.91, a recall of 0.88, and an f1-score of 0.89.
+*In the first round, The Random Forest Classifier emerged as the top-performing model. Employing undersampling for resampling, it achieved metrics on the test set: an AUC of 0.89, a precision of 0.91, a recall of 0.88, and an f1-score of 0.89.*
 
 ![Random Forest_SMOTE_1](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/6cb54b6d-7b5d-4cc9-806b-8119a1570532) ![Random Forest_SMOTE_2](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/7d7aac93-8559-486e-843b-1ddd8c6c47c9)
 
 * Feature Importance of the 1st round
 ![Random Forest_SMOTE_featureIm_XG1](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/81b54354-ae0a-4482-8740-0d8a9fd1cada)
 
-In the second round, features with importance scores exceeding 0.075 were selected for model training. The results highlighted XGBoost as the superior model, employing undersampling, oversampling, and SMOTE. It achieved notable performance metrics on the test set, including an AUC of 0.79, a precision of 0.86, a recall of 0.77, and an f1-score of 0.80.
+*In the second round, features with importance scores exceeding 0.075 were selected for model training. The results highlighted XGBoost as the superior model, employing undersampling, oversampling, and SMOTE. It achieved notable performance metrics on the test set, including an AUC of 0.79, a precision of 0.86, a recall of 0.77, and an f1-score of 0.80.*
 
 ![XGBoost_1](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/6d0f9b54-3989-44dc-9182-883ec86545a3) 
 ![XGBoost_2](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/de472aa8-8f8a-47a7-96f3-ceef94496462)
