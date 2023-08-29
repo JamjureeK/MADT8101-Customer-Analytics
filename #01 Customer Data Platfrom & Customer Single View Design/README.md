@@ -19,7 +19,7 @@ The original Supermarket dataset contains 21 columns of information about custom
 ![Original dataset](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/8f801aaa-1c19-498f-b2a2-9844a05f6f34)
 
 ### Feature Engineering
-#### Notebook: 
+#### Notebook: https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/main/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design/Customer_Single_View.ipynb
 Here are the new features for this Supermarket dataset.
 ![Feature_engineering_1](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/f5b0cd99-30f3-471a-badd-0f2f45d89f23)
 ![Feature_engineering_2](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/1a8006b2-30cc-4068-84fe-79f2f165a79e)
