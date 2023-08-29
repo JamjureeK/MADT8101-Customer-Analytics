@@ -4,7 +4,7 @@ Dive into Customer Analytics for data-driven growth. Uncover insights, technique
 ## What Does This Repository Offer?
 This repository serves as an extensive guide to Customer Analytics, focusing on a wide array of vital topics that are essential for understanding and harnessing the power of customer data. It offers comprehensive insights and practical techniques for a variety of critical areas:
 
-### Building Customer Single View: 
+### Customer Data Platform & Customer Single View Design: 
 Dive into the intricacies of constructing a holistic and detailed profile for each customer, enabling a comprehensive understanding of their preferences, interactions, and history.
 
 ### Customer Lifetime Value (CLV): 
