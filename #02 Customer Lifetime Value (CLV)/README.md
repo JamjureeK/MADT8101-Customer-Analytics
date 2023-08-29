@@ -30,6 +30,7 @@ Supports long-term strategies and growth forecasting.
 In the dynamic hospitality landscape, I present a pioneering CLV calculation approach. This method, tailored to the intricacies of hotels, promises to revolutionize how we 
 measure guest value and refine strategies. Join me in exploring this cutting-edge avenue to elevate the guest experience and business outcomes.
 
+## Create New Loyalty Program based on CLV
 ### Business Overview
 D Hotel Group is a prominent hospitality firm in Southeast Asia that operates within five interconnected business sectors. These include Hotels & Resorts, Hospitality Education, Foods, Property Development, and Services related to the hospitality industry.
 
@@ -42,10 +43,10 @@ D membership tiers are determined based on the number of stays/nights at eligibl
 |Executive     | 5 Stays or 10 Nights       |
 |Elite	       | 15 Stays or 30 Nights      |
 
-** Membership tiers are determined based on the number of stays/nights at eligible rates per year.
+**Membership tiers are determined based on the number of stays/nights at eligible rates per year.*
 
-** To qualify and maintain a consecutive year of a Membership account leveled in the same tier, minimum nights and stays at any Participating Hotels are required based on
-Membership tier level within 12 months after sign-up or tier promotion.
+***To qualify and maintain a consecutive year of a Membership account leveled in the same tier, minimum nights and stays at any Participating Hotels are required based on
+Membership tier level within 12 months after sign-up or tier promotion.*
 
 ### Current Loyalty Program Pain Points
 1.	Loss of opportunity in selling high-tiers hotels due to the current calculation of customer loyalty programs.
@@ -80,7 +81,7 @@ Membership tier level within 12 months after sign-up or tier promotion.
 
   #### LT Score = 0.1(Lifespan)+0.9  
 
-**Lifespan will reset if the customer doesn't have any transactions with D Group within a year
+**Lifespan will reset if the customer doesn't have any transactions with D Group within a year*
   
 | Lifespan      | Loyalty Score (LT Score)     |
 |---------------|------------------------------|
@@ -125,5 +126,5 @@ Avg. transaction per year = 2
 
 Lifespan = 3
 
-CLV = 155,000 THB
+##### CLV = 155,000 THB
 
