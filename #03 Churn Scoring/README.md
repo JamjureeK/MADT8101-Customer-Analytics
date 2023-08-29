@@ -1,7 +1,7 @@
 ## Dataset
 The dataset contains various customer attributes such as tenure, gender, distance from warehouse to home, number of address, complain, order amount hike from last year, and cashback amount. The target variable 'Churn' indicates whether customers have churned.
 
-#### Notebook: https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/main/Churn%20Scoring/Churn_Prediction.ipynb
+#### Notebook: https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/main/%2303%20Churn%20Scoring/Churn_Prediction.ipynb
 
 ## Steps
 * Data processing - encoding categorical data
