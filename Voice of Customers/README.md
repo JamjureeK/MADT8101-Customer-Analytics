@@ -1,8 +1,10 @@
 ## Dataset
 This dataset comprises reviews and comments of a restaurant gathered from the Grab Food app in the last two weeks. These insights reflect customer experiences and opinions, aiding in evaluating the restaurant's performance and identifying potential areas for improvement.
 
-## Steps
-Perform topic modeling using the Python libraries pythainlp, gensim, and pyLDAvis. The purpose is to preprocess the text data, create a topic model using Latent Dirichlet Allocation (LDA), and visualize the results using an interactive visualization from the pyLDAvis library. Here's a step-by-step explanation of the code:
+## Libraries
+Python libraries pythainlp, gensim, and pyLDAvis
+
+## Step-by-step explanation of the code:
 
 #### Installing Required Libraries:
 The code starts by installing the required libraries pythainlp and pyLDAvis using the !pip install commands.
