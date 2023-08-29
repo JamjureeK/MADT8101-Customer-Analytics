@@ -1,7 +1,7 @@
 ## Dataset
 This dataset comprises reviews and comments of a restaurant gathered from the Grab Food app in the last two weeks. These insights reflect customer experiences and opinions, aiding in evaluating the restaurant's performance and identifying potential areas for improvement.
 
-#### Notebook:
+#### Notebook: https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/main/%2305%20Voice%20of%20Customers/Topic_Modeling.ipynb
 
 ## Libraries
 Python libraries pythainlp, gensim, and 'pyLDAvis'
