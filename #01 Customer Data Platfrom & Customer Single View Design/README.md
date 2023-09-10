@@ -1,28 +1,30 @@
 # Customer Data Platform (CDP)
 
-## :chart_with_upwards_trend: What is Customer Data Platform?
+## :desktop_computer: What is Customer Data Platform?
 A Customer Data Platform (CDP) is a specialized platform that collects, centralizes, and organizes customer data from various sources to create a unified and comprehensive customer profile. The primary purpose of a CDP is to provide businesses with a 360-degree view of their customers, enabling data-driven marketing, personalization, and improved customer experiences.
+<img width="960" alt="Five_stages_of_building_CDP" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/c4f8a945-c68c-46a8-9dbb-01b40dab82e9">
 
-## Six Stages of Customer Data Platform
+# Single View of Customer (SVoC)
 
+## :bar_chart: What is Single View of Customer?
+SVoC is one of steps in creating CDP. It is a consolidated view of a customer's data from all sources. This means that all of the customer's data, such as their purchase history, contact information, and social media activity, is brought together in a single place. This allows businesses to have a complete and up-to-date view of each customer, which can be used to improve customer service, marketing, and sales.
 
-
-
-
-
-# Designing Single View of Customer (SVOC)
-
-## What is Single View of Customer?
-SVOC is a consolidated view of a customer's data from all sources. This means that all of the customer's data, such as their purchase history, contact information, and social media activity, is brought together in a single place. This allows businesses to have a complete and up-to-date view of each customer, which can be used to improve customer service, marketing, and sales.
-
-## Turn Original Dataset to SVOC
-The original Supermarket dataset contains 21 columns of information about customer purchases at a supermarket. Some features will be transformed through feature engineering to make it more useful for customer segmentation and other business applications such as personalized marketing, cross-selling and upselling, and customer service improvement.
-
-![Original dataset](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/8f801aaa-1c19-498f-b2a2-9844a05f6f34)
+## :hammer_and_wrench: Building SVoC from 'Supermarket' data
+### Dataset:open_file_folder:
+The initial Supermarket dataset contains 21 columns of data related to customer purchases within a supermarket. Transactions will be organized by customer code, and certain attributes will undergo feature engineering to enhance their utility for various business applications, such as customer segmentation, cross-selling, upselling, personalized marketing, and product recommendations.
 
 ### Feature Engineering
-#### Notebook: [Customer_Single_View](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/main/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design/Customer_Single_View.ipynb)
-Here are the new features for this Supermarket dataset.
-![Feature_engineering_1](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/f5b0cd99-30f3-471a-badd-0f2f45d89f23)
-![Feature_engineering_2](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/1a8006b2-30cc-4068-84fe-79f2f165a79e)
-![Feature_engineering_3](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/207e03bc-e15f-4012-9ca6-f1c07412d8ff)
+![BigQuery badge](https://img.shields.io/badge/-BigQuery-blue.svg)
+
+The new features are as follows.
+![svoc_01](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/d2fa30c9-e115-4f58-b101-653ceb6fb3e3)
+
+![svoc_02](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/e97f275e-d600-4050-bda5-533577a50e0b)
+
+![svoc_03](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/9fccdfc3-6366-4360-916e-7dc2c159f5ef)
+
+![svoc_04](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/34da8081-91cb-4f08-84b8-6cb84a109409)
+
+
+
+
