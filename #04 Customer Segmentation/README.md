@@ -6,7 +6,7 @@
 Use Supermarket dataset that is previously used in generating cusotmer single view. This dataset contains 578K records of sales transactions
 
 ### 2.) Create Customer Single View:bar_chart:
-See full details of creating the Customer Single View at [Customer Data Platform & Customer Single View Design](https://github.com/JamjureeK/MADT8101-Customer-Analytics/tree/ce0a0bc994e51d92f49ac2549f41992d750a26f9/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design)
+See full details of creating the Customer Single View at [Customer Data Platform & Customer Single View Design](https://github.com/JamjureeK/MADT8101-Customer-Analytics/tree/41d322e452e9e9e00917b749b96a06de5ac8d5f5/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design)
 
 ### 3.) Data Processing:gear:
 ![Python badge](https://img.shields.io/badge/-Python-green.svg)
