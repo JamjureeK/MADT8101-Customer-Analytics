@@ -8,6 +8,8 @@ A Customer Data Platform (CDP) is a specialized platform that collects, centrali
 
 
 
+
+
 # Designing Single View of Customer (SVOC)
 
 ## What is Single View of Customer?
