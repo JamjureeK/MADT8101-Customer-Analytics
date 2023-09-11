@@ -27,7 +27,6 @@ This repository serves as an extensive guide to Customer Analytics, focusing on 
 ![Clustering badge](https://img.shields.io/badge/-Clustering-yellow.svg)
 
 ### :pushpin:Voice of Customer (VoC)
-![BigQuery badge](https://img.shields.io/badge/-BigQuery-blue.svg)
 ![Python badge](https://img.shields.io/badge/-Python-green.svg)
 ![NLP badge](https://img.shields.io/badge/-NLP-yellow.svg)
 ![Topic-Modeling badge](https://img.shields.io/badge/-Topic--Modeling-yellow.svg)
