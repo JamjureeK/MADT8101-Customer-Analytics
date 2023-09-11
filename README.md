@@ -5,14 +5,14 @@ Dive into Customer Analytics for data-driven growth. Uncover insights, technique
 This repository serves as an extensive guide to Customer Analytics, focusing on a wide array of vital topics that are essential for understanding and harnessing the power of customer data. It offers comprehensive insights and practical techniques for a variety of critical areas:
 
 ### :pushpin:Customer Data Platform & Customer Single View Design
-![Concept badge](https://img.shields.io/badge/-Concept-orange.svg)
-![Presentation badge](https://img.shields.io/badge/-Presentation-orange.svg)
+![Concept badge](https://img.shields.io/badge/-Concept-purple.svg)
+![Presentation badge](https://img.shields.io/badge/-Presentation-purple.svg)
 ![BigQuery badge](https://img.shields.io/badge/-BigQuery-blue.svg)
 ![SQL badge](https://img.shields.io/badge/-SQL-green.svg)
 
 ### :pushpin:Customer Lifetime Value (CLV)
-![Concept badge](https://img.shields.io/badge/-Concept-orange.svg)
-![Presentation badge](https://img.shields.io/badge/-Presentation-orange.svg)
+![Concept badge](https://img.shields.io/badge/-Concept-purple.svg)
+![Presentation badge](https://img.shields.io/badge/-Presentation-purple.svg)
 
 ### :pushpin:Churn Scoring
 ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) 
