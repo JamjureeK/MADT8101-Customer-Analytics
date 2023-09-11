@@ -1,3 +1,4 @@
+# Churn Scoring
 ## Dataset
 The dataset contains various customer attributes such as tenure, gender, distance from warehouse to home, number of address, complain, order amount hike from last year, and cashback amount. The target variable 'Churn' indicates whether customers have churned.
 
