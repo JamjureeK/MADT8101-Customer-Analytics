@@ -15,6 +15,8 @@ The initial Supermarket dataset contains 21 columns of data related to customer 
 
 ### Feature Engineering
 ![BigQuery badge](https://img.shields.io/badge/-BigQuery-blue.svg)
+![SQL badge](https://img.shields.io/badge/-SQL-green.svg)
+
 [Single View of Customer - BigQuery](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/06980a1340df8c3c78aba8fbde5354b1b105837d/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design/svoc-supermarket.sql)
 
 The new features are as follows.
