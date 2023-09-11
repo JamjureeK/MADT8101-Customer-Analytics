@@ -1,6 +1,10 @@
 # Customer Segmentation
-![BigQuery badge](https://img.shields.io/badge/-BigQuery--Colab-blue.svg) 
-![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) 
+![BigQuery badge](https://img.shields.io/badge/-BigQuery-blue.svg) 
+![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg)
+![SQL badge](https://img.shields.io/badge/-SQL-green.svg)
+![Python badge](https://img.shields.io/badge/-Python-green.svg)
+
+Notebook:open_book:: [Customer Segmentation.ipynb]()
 
 ### 1.) Import Dataset:open_file_folder:
 Use Supermarket dataset that is previously used in generating cusotmer single view. This dataset contains 578K records of sales transactions
@@ -9,7 +13,6 @@ Use Supermarket dataset that is previously used in generating cusotmer single vi
 See full details of creating the Customer Single View at [Customer Data Platform & Customer Single View Design](https://github.com/JamjureeK/MADT8101-Customer-Analytics/tree/41d322e452e9e9e00917b749b96a06de5ac8d5f5/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design)
 
 ### 3.) Data Processing:gear:
-![Python badge](https://img.shields.io/badge/-Python-green.svg)
 - Encode categorical data
 - Remove outliers when z-score > abs|3|
 - Normalize data
