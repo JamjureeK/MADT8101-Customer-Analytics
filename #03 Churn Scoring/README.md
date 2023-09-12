@@ -1,8 +1,8 @@
 # Churn Scoring
-## Dataset
+## :books:Dataset
 The dataset contains various customer attributes such as tenure, gender, distance from warehouse to home, number of address, complain, order amount hike from last year, and cashback amount. The target variable 'Churn' indicates whether customers have churned.
 
-#### Notebook: [Churn_Prediction](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/main/%2303%20Churn%20Scoring/Churn_Prediction.ipynb)
+#### Notebook:open_book: [Churn_Prediction](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/main/%2303%20Churn%20Scoring/Churn_Prediction.ipynb)
 
 ## Steps
 * Data processing - encoding categorical data
@@ -11,17 +11,18 @@ The dataset contains various customer attributes such as tenure, gender, distanc
 * Feature importance and selection using XGBoost
 
 ## Data Exploration
-![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/146a21a5bb268665843e5518eea7a7fe439974ef/%2303%20Churn%20Scoring/EDA1.png)
+The following are some interesting observations from data exploration:
+![Alt text]()
 
-The following are some interesting observations from the boxplots:
+*Customers with shorter tenure may be more likely to churn
 
-* The median tenure of customers who have churned is lower than the median tenure of customers who have not churned, suggesting that customers who churn tend to have shorter tenures.
-  
-* The distribution of the warehouse to home distance for customers who have churned is more spread out than the distribution for customers who have not churned. This suggests that customers who have churned tend to live further away from warehouses than customers who have not churned.
-  
-* The distribution of the hour spend on app for customers who have churned is more spread out than the distribution for customers who have not churned. It is implied that there is a wider range of hour spend on app for customers who churn.
-  
-* The median number of devices registered for customers who have churned is higher than the median number of devices registered for customers who have not churned. This suggests that customers who have not churned tend to have fewer devices registered to their account.
+*The number of customers who have churned is highest for single customers. This graph also suggests that married customers are less likely to churn.
+
+![Alt text]()
+
+*The graph shows that the churn rate is higher for customers with fewer devices registered and for customers with lower satisfaction scores. This suggests that customers who are more satisfied with the service and who have more devices registered are less likely to churn.
+
+*The churn rate is higher for customers who have filed a complaint. This suggests that customers who are unhappy with the service are more likely to churn.
   
 ## Model Creation and Evaluation
 1.) Employ all available features for model training utilizing classifiers such as KNeighborsClassifier, LogisticRegression, GradientBoostingClassifier, RandomForestClassifier, BaggingClassifier, GaussianNB, and XGBoost.
