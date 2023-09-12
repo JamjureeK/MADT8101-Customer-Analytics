@@ -20,13 +20,13 @@ The initial Supermarket dataset contains 21 columns of data related to customer 
 [Single View of Customer - BigQuery](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/06980a1340df8c3c78aba8fbde5354b1b105837d/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design/svoc-supermarket.sql)
 
 The new features are as follows.
-![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/d2fa30c9-e115-4f58-b101-653ceb6fb3e3)
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/fe3d0a631508f750fdb0bf67f43bb2566cabb549/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design/svoc_01.jpg)
 
-![svoc_02](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/e97f275e-d600-4050-bda5-533577a50e0b)
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/fe3d0a631508f750fdb0bf67f43bb2566cabb549/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design/svoc_02.jpg)
 
-![svoc_03](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/9fccdfc3-6366-4360-916e-7dc2c159f5ef)
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/fe3d0a631508f750fdb0bf67f43bb2566cabb549/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design/svoc_03.jpg)
 
-![svoc_04](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/34da8081-91cb-4f08-84b8-6cb84a109409)
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/fe3d0a631508f750fdb0bf67f43bb2566cabb549/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design/svoc_04.jpg)
 
 
 
