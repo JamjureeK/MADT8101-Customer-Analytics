@@ -8,7 +8,7 @@ The dataset contains various customer attributes such as tenure, gender, distanc
 * Data processing - encoding categorical data
 * Model creation and evaluation
 * Resampling: undersampling, oversampling, SMOTE
-* Feature importance and selection using XGBoost
+* Feature importance using XGBoost
 
 ## :mag_right:Data Exploration
 The following are some interesting observations from data exploration:
