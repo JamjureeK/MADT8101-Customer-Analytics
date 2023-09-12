@@ -33,7 +33,7 @@ D Hotel Group is a prominent hospitality firm in Southeast Asia that operates wi
 ### Current Loyalty Program
 D membership tiers are determined based on the number of stays/nights at eligible rates per year.
 
-<img width="849" alt="Current Loyalty Program_0" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/c49ae16d-4790-4300-bde6-f2b9ae4961f1">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/d91a2ce4638595418ad2dd068fe04edd8f59f8ad/%2302%20Customer%20Lifetime%20Value%20(CLV)/Current%20Loyalty%20Program_0.png)
 
 ### Current Loyalty Program Pain Points
 1.	Loss of opportunity in selling high-tiers hotels due to the current calculation of customer loyalty programs.
@@ -42,20 +42,20 @@ D membership tiers are determined based on the number of stays/nights at eligibl
 
 ## :sparkles:Introducing the New CLV Approach:sparkles:
 
-<img width="960" alt="CLV Scoring features" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/b1955a3e-d8af-4287-a225-02b7b65f9572">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/d91a2ce4638595418ad2dd068fe04edd8f59f8ad/%2302%20Customer%20Lifetime%20Value%20(CLV)/CLV%20Scoring%20features.png)
 
-<img width="960" alt="Score Card Metrics" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/115eac62-a4ab-4864-9f75-bac245d1bb5d">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/d91a2ce4638595418ad2dd068fe04edd8f59f8ad/%2302%20Customer%20Lifetime%20Value%20(CLV)/Scorecard%20Metrics.png)
 
-<img width="960" alt="Hotel Tiers" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/cecaba65-8f6b-465c-80b4-adbcd0fc89f5">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/d91a2ce4638595418ad2dd068fe04edd8f59f8ad/%2302%20Customer%20Lifetime%20Value%20(CLV)/Hotel%20Tiers.png)
 
-<img width="960" alt="Scorecard" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/54f16fc9-ef73-46ac-a83b-dfa5e0a84fd1">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/d91a2ce4638595418ad2dd068fe04edd8f59f8ad/%2302%20Customer%20Lifetime%20Value%20(CLV)/Scorecard.png)
 
-<img width="960" alt="Customer Profile Score" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/0ae6ec80-21b6-4da9-aa5d-d59200c14e41">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/d91a2ce4638595418ad2dd068fe04edd8f59f8ad/%2302%20Customer%20Lifetime%20Value%20(CLV)/Customer%20Profile%20Score.png)
 
 
 ## :trophy: New CLV Formula
 
-<img width="960" alt="CLV" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/f5c3ab3b-f040-4e7a-9fc8-c9d51ef05fbf">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/d91a2ce4638595418ad2dd068fe04edd8f59f8ad/%2302%20Customer%20Lifetime%20Value%20(CLV)/CLV.png)
 
 ### Example
 
