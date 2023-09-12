@@ -23,8 +23,6 @@ The following are some interesting observations from the boxplots:
   
 * The median number of devices registered for customers who have churned is higher than the median number of devices registered for customers who have not churned. This suggests that customers who have not churned tend to have fewer devices registered to their account.
   
-* The median satisfaction score is lower for customers who churned than for customers who did not churn. This suggests that customers who churn tend to be less satisfied with the company.
-
 ## Model Creation and Evaluation
 1.) Employ all available features for model training utilizing classifiers such as KNeighborsClassifier, LogisticRegression, GradientBoostingClassifier, RandomForestClassifier, BaggingClassifier, GaussianNB, and XGBoost.
 
