@@ -23,23 +23,23 @@ See full details of creating the SVoC at [Customer Data Platform & Customer Sing
 ### 4.) Perform Principal Component Analysis (PCA):file_cabinet:
 Choose the number of components as 21, which allows for explaining approximately 94% of the variance.
 
-![pca](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/33d87561-ef42-411b-a2be-5bcd9c4cf32d)
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/1476da3dd4c1386d308cc6e90da9e7a5bb32d37b/%2304%20Customer%20Segmentation/pca.png)
 
 ### 5.) K-means Clustering:books:
 5.1 Choose optimal K using Elbow method and select K=4
 
-![k-means elbow](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/ce243f0f-fbc3-42d8-96ce-7640a19b37d3)
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/1476da3dd4c1386d308cc6e90da9e7a5bb32d37b/%2304%20Customer%20Segmentation/k-means%20elbow.png)
 
 4.2 Perform K-means clustering
 
-![k-means](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/f7808ae8-1337-41b2-a4d0-7992ddc286b0)
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/1476da3dd4c1386d308cc6e90da9e7a5bb32d37b/%2304%20Customer%20Segmentation/k-means.png)
 
 ### 6.) Visualization:bar_chart:
 
-![Visualize](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/70c4aba8-725c-42a0-87cb-7196177d3b17)
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/1476da3dd4c1386d308cc6e90da9e7a5bb32d37b/%2304%20Customer%20Segmentation/Visualize.png)
 
 ### 7.) Interpretation:family_man_woman_girl_boy:
-<img width="960" alt="Customer Persona and Business Actions" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/be4c819a-d932-4b21-b824-7b39b04dbe54">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/1476da3dd4c1386d308cc6e90da9e7a5bb32d37b/%2304%20Customer%20Segmentation/Customer%20Persona%20and%20Business%20Actions.png)
 
 
 
