@@ -31,24 +31,10 @@ The following are some interesting observations from data exploration:
 
 3.) Evaluate the optimal model using metrics including precision, recall, f1-score, support, and test-AUC.
 
-4.) Identify the significant features by their importance scores and retain only those with scores exceeding the threshold of 0.075.
-
-*In the first round, The Random Forest Classifier emerged as the top-performing model. Employing undersampling for resampling, it achieved metrics on the test set: an AUC of 0.89, a precision of 0.91, a recall of 0.88, and an f1-score of 0.89.*
+*XGBoost emerged as the top-performing model. Employing Oversampling for resampling, it achieved metrics on the test set: an AUC of 0.93, a precision of 0.85, a recall of 0.89, and an f1-score of 0.87.*
 
 ![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/146a21a5bb268665843e5518eea7a7fe439974ef/%2303%20Churn%20Scoring/Random%20Forest_SMOTE_1.png)
 ![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/146a21a5bb268665843e5518eea7a7fe439974ef/%2303%20Churn%20Scoring/Random%20Forest_SMOTE_2.png)
 
-* Feature Importance of the 1st round
+* Feature Importance
 ![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/146a21a5bb268665843e5518eea7a7fe439974ef/%2303%20Churn%20Scoring/Feature%20importance.png)
-
-*Since the model score of the 1st round is too good to be true. In the second round, features with importance scores exceeding 0.075 were selected for model training. The results highlighted XGBoost as the superior model, employing undersampling, oversampling, and SMOTE. It achieved notable performance metrics on the test set, including an AUC of 0.79, a precision of 0.86, a recall of 0.77, and an f1-score of 0.80.*
-
-![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/146a21a5bb268665843e5518eea7a7fe439974ef/%2303%20Churn%20Scoring/XGBoost_1.png)
-![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/146a21a5bb268665843e5518eea7a7fe439974ef/%2303%20Churn%20Scoring/XGBoost_2.png)
-
-* Feature Importance of the 2nd round
-![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/146a21a5bb268665843e5518eea7a7fe439974ef/%2303%20Churn%20Scoring/Feature%20importance%202.png)
-
-
-
-
