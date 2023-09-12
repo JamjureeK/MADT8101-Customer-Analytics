@@ -14,7 +14,7 @@ This repository serves as an extensive guide to Customer Analytics, focusing on 
 ![Concept badge](https://img.shields.io/badge/-Concept-purple.svg)
 ![Presentation badge](https://img.shields.io/badge/-Presentation-purple.svg)
 
-### :pushpin:Churn Scoring
+### :pushpin:Churn Prediction
 ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) 
 ![Python badge](https://img.shields.io/badge/-Python-green.svg)
 
