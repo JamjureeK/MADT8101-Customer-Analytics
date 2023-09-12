@@ -12,17 +12,17 @@ The dataset contains various customer attributes such as tenure, gender, distanc
 
 ## Data Exploration
 The following are some interesting observations from data exploration:
-![Alt text]()
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/4e1813230936d033c6dbf851901870876156af27/%2303%20Churn%20Scoring/EDA_1.png)
 
-*Customers with shorter tenure may be more likely to churn
+* Customers with shorter tenure may be more likely to churn
 
-*The number of customers who have churned is highest for single customers. This graph also suggests that married customers are less likely to churn.
+* The number of customers who have churned is highest for single customers. This graph also suggests that married customers are less likely to churn.
 
-![Alt text]()
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/4e1813230936d033c6dbf851901870876156af27/%2303%20Churn%20Scoring/EDA_2.png)
 
-*The graph shows that the churn rate is higher for customers with fewer devices registered and for customers with lower satisfaction scores. This suggests that customers who are more satisfied with the service and who have more devices registered are less likely to churn.
+* The graph shows that the churn rate is higher for customers with fewer devices registered and for customers with lower satisfaction scores. This suggests that customers who are more satisfied with the service and who have more devices registered are less likely to churn.
 
-*The churn rate is higher for customers who have filed a complaint. This suggests that customers who are unhappy with the service are more likely to churn.
+* The churn rate is higher for customers who have filed a complaint. This suggests that customers who are unhappy with the service are more likely to churn.
   
 ## Model Creation and Evaluation
 1.) Employ all available features for model training utilizing classifiers such as KNeighborsClassifier, LogisticRegression, GradientBoostingClassifier, RandomForestClassifier, BaggingClassifier, GaussianNB, and XGBoost.
