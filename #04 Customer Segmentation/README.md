@@ -4,7 +4,7 @@
 ![SQL badge](https://img.shields.io/badge/-SQL-green.svg)
 ![Python badge](https://img.shields.io/badge/-Python-green.svg)
 
-Notebook:open_book:: [Customer Segmentation.ipynb](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/ef10943e9567a434fea8a68aec0c7e8a8447851f/%2304%20Customer%20Segmentation/Customer_Segmentation.ipynb)
+Notebook:open_book:: [Customer Segmentation.ipynb](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/dff048c52761c6cc403087134c5f007ea2e31535/%2304%20Customer%20Segmentation/Customer_Segmentation.ipynb)
 
 ### 1.) Import Dataset:open_file_folder:
 Use Supermarket dataset that is previously used in generating cusotmer single view. This dataset contains 578K records of sales transactions
