@@ -2,7 +2,7 @@
 
 ## :desktop_computer: What is Customer Data Platform?
 A Customer Data Platform (CDP) is a specialized platform that collects, centralizes, and organizes customer data from various sources to create a unified and comprehensive customer profile. The primary purpose of a CDP is to provide businesses with a 360-degree view of their customers, enabling data-driven marketing, personalization, and improved customer experiences.
-<img width="960" alt="Five_stages_of_building_CDP" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/c4f8a945-c68c-46a8-9dbb-01b40dab82e9">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/edd04ddabfdcd773bedba3319fc5502d9745e867/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design/Five_stages_of_building_CDP.png)
 
 # Single View of Customer (SVoC)
 
@@ -20,7 +20,7 @@ The initial Supermarket dataset contains 21 columns of data related to customer 
 [Single View of Customer - BigQuery](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/06980a1340df8c3c78aba8fbde5354b1b105837d/%2301%20Customer%20Data%20Platfrom%20%26%20Customer%20Single%20View%20Design/svoc-supermarket.sql)
 
 The new features are as follows.
-![svoc_01](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/d2fa30c9-e115-4f58-b101-653ceb6fb3e3)
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/d2fa30c9-e115-4f58-b101-653ceb6fb3e3)
 
 ![svoc_02](https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/e97f275e-d600-4050-bda5-533577a50e0b)
 
