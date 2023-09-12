@@ -12,13 +12,13 @@ The dataset contains various customer attributes such as tenure, gender, distanc
 
 ## :mag_right:Data Exploration
 The following are some interesting observations from data exploration:
-![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/4e1813230936d033c6dbf851901870876156af27/%2303%20Churn%20Scoring/EDA_1.png)
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/3ca1986e2e19c306706d7e17db06bddcf55603c7/%2303%20Churn%20Prediction/EDA_1.png)
 
 * Customers with shorter tenure may be more likely to churn
 
 * The number of customers who have churned is highest for single customers. This graph also suggests that married customers are less likely to churn.
 
-![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/4e1813230936d033c6dbf851901870876156af27/%2303%20Churn%20Scoring/EDA_2.png)
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/3ca1986e2e19c306706d7e17db06bddcf55603c7/%2303%20Churn%20Prediction/EDA_2.png)
 
 * The graph shows that the churn rate is higher for customers with fewer devices registered and for customers with lower satisfaction scores. This suggests that customers who are more satisfied with the service and who have more devices registered are less likely to churn.
 
