@@ -27,12 +27,12 @@ The necessary libraries are imported, including pandas for data handling, pythai
 #### 3.) Loading Data:
 The code reads a CSV file using the pd.read_csv() function and assigns it to a DataFrame named df.
 
-<img width="299" alt="Dataset" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/4787e69a-13bb-4226-828f-2f75ed648148">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/27c78d9470808c5600d583f283de0e37af2688e3/%2305%20Voice%20of%20Customers/Dataset.png)
 
 #### 4.) Tokenization and Preprocessing:
 The code defines a list of stopwords and other words to be removed from the text data. Then, a function named tokenize_with_space is defined. This function takes a sentence, tokenizes it using the 'newmm' word segmentation engine from pythainlp, filters out stopwords and removed words, and returns the tokenized sentence. The function is applied to each review in the DataFrame using the .apply() function, and the tokenized reviews are stored in a new column named 'Review_tokenized'.
 
-<img width="514" alt="Tokenize" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/e62ed156-feaf-4c47-b0a6-0806b81fa5eb">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/27c78d9470808c5600d583f283de0e37af2688e3/%2305%20Voice%20of%20Customers/Tokenize.png)
 
 
 #### 5.) Creating Dictionary and Corpus:
@@ -47,4 +47,5 @@ The pyLDAvis.gensim.prepare() function is used to create data for visualization.
 #### 8.) Displaying Visualization Data:
 The vis_data variable holds the prepared visualization data. This data can be used to generate an interactive visualization of the topics and their relationships using the pyLDAvis.display() function.
 
-<img width="464" alt="Visualize" src="https://github.com/JamjureeK/MADT8101-Customer-Analytics/assets/142724038/73651f74-226e-4a0d-9729-77da8f607d10">
+![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/27c78d9470808c5600d583f283de0e37af2688e3/%2305%20Voice%20of%20Customers/Visualize.png)
+
