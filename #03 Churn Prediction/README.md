@@ -20,7 +20,7 @@ The following are some interesting observations from data exploration:
 
 ![Alt text](https://github.com/JamjureeK/MADT8101-Customer-Analytics/blob/3ca1986e2e19c306706d7e17db06bddcf55603c7/%2303%20Churn%20Prediction/EDA_2.png)
 
-* The graph shows that the churn rate is higher for customers with fewer devices registered and for customers with lower satisfaction scores. This suggests that customers who are more satisfied with the service and who have more devices registered are less likely to churn.
+* The graph shows that the churn rate is higher for customers with higher devices registered and for customers with lower satisfaction scores. This suggests that customers who are more satisfied with the service and who have less devices registered are less likely to churn.
 
 * The churn rate is higher for customers who have filed a complaint. This suggests that customers who are unhappy with the service are more likely to churn.
   
