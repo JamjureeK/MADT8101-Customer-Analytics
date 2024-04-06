@@ -1,4 +1,4 @@
-# MADT8101-Customer-Analytics
+# Customer-Analytics
 Dive into Customer Analytics for data-driven growth. Uncover insights, techniques, and examples to harness the power of customer data for informed business decisions.
 
 ## What Does This Repository Offer?
